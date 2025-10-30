@@ -1,0 +1,14 @@
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\Variaveiseconstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\Variaveiseconstantes.AssemblyInfoInputs.cache
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\Variaveiseconstantes.AssemblyInfo.cs
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\Variaveiseconstantes.csproj.CoreCompileInputs.cache
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\bin\Debug\net8.0\Variaveiseconstantes.exe
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\bin\Debug\net8.0\Variaveiseconstantes.deps.json
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\bin\Debug\net8.0\Variaveiseconstantes.runtimeconfig.json
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\bin\Debug\net8.0\Variaveiseconstantes.dll
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\bin\Debug\net8.0\Variaveiseconstantes.pdb
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\Variaveiseconstantes.dll
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\refint\Variaveiseconstantes.dll
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\Variaveiseconstantes.pdb
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\Variaveiseconstantes.genruntimeconfig.cache
+C:\Users\anderson.psantos32\source\repos\Variaveiseconstantes\obj\Debug\net8.0\ref\Variaveiseconstantes.dll
