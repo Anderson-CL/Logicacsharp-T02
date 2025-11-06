@@ -1,0 +1,15 @@
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.exe
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.deps.json
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.runtimeconfig.json
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.dll
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\bin\Debug\net8.0\operadoreslogicos.pdb
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.AssemblyInfoInputs.cache
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.AssemblyInfo.cs
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.csproj.CoreCompileInputs.cache
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.sourcelink.json
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.dll
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\refint\operadoreslogicos.dll
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.pdb
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\operadoreslogicos.genruntimeconfig.cache
+C:\Users\anderson.psantos32\source\repos\operadoreslogicos\obj\Debug\net8.0\ref\operadoreslogicos.dll

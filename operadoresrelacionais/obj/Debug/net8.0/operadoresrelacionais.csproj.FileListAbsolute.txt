@@ -1,0 +1,15 @@
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.exe
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.deps.json
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.runtimeconfig.json
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.dll
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\bin\Debug\net8.0\operadoresrelacionais.pdb
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.AssemblyInfoInputs.cache
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.AssemblyInfo.cs
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.csproj.CoreCompileInputs.cache
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.sourcelink.json
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.dll
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\refint\operadoresrelacionais.dll
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.pdb
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\operadoresrelacionais.genruntimeconfig.cache
+C:\Users\anderson.psantos32\source\repos\operadoresrelacionais\obj\Debug\net8.0\ref\operadoresrelacionais.dll
