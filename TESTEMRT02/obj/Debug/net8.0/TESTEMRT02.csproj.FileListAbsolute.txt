@@ -1,0 +1,15 @@
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\bin\Debug\net8.0\TESTEMRT02.exe
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\bin\Debug\net8.0\TESTEMRT02.deps.json
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\bin\Debug\net8.0\TESTEMRT02.runtimeconfig.json
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\bin\Debug\net8.0\TESTEMRT02.dll
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\bin\Debug\net8.0\TESTEMRT02.pdb
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\TESTEMRT02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\TESTEMRT02.AssemblyInfoInputs.cache
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\TESTEMRT02.AssemblyInfo.cs
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\TESTEMRT02.csproj.CoreCompileInputs.cache
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\TESTEMRT02.sourcelink.json
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\TESTEMRT02.dll
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\refint\TESTEMRT02.dll
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\TESTEMRT02.pdb
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\TESTEMRT02.genruntimeconfig.cache
+C:\Users\anderson.psantos32\source\repos\TESTEMRT02\obj\Debug\net8.0\ref\TESTEMRT02.dll

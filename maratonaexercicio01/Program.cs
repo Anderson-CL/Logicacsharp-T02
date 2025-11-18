@@ -42,7 +42,7 @@ Console.Write("Digite seu nome: ");
 nome = Console.ReadLine();
 
 Console.Write("Digite sua idade: ");
-int idade = int.Parse(Console.ReadLine());
+int idade = (Console.ReadLine());
 
 Console.Write("Digite sua cidade: ");
 string cidade = Console.ReadLine();
