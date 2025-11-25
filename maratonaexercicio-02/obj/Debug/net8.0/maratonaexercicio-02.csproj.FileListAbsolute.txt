@@ -1,0 +1,15 @@
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\bin\Debug\net8.0\maratonaexercicio-02.exe
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\bin\Debug\net8.0\maratonaexercicio-02.deps.json
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\bin\Debug\net8.0\maratonaexercicio-02.runtimeconfig.json
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\bin\Debug\net8.0\maratonaexercicio-02.dll
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\bin\Debug\net8.0\maratonaexercicio-02.pdb
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\maratonaexercicio-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\maratonaexercicio-02.AssemblyInfoInputs.cache
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\maratonaexercicio-02.AssemblyInfo.cs
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\maratonaexercicio-02.csproj.CoreCompileInputs.cache
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\maratonaexercicio-02.sourcelink.json
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\maratonaexercicio-02.dll
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\refint\maratonaexercicio-02.dll
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\maratonaexercicio-02.pdb
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\maratonaexercicio-02.genruntimeconfig.cache
+C:\Users\anderson.psantos32\source\repos\maratonaexercicio-02\obj\Debug\net8.0\ref\maratonaexercicio-02.dll

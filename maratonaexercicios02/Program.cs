@@ -83,6 +83,7 @@ switch (semana)
     case 7:
         Console.WriteLine("Sabado");
         break;
+
 }
 
 Console.WriteLine("\n");
@@ -122,14 +123,15 @@ repetição for.
 O programa deve exibir, para cada número de 7, a multiplicação desse número
 pelos valores de 1 a 10.*/
 
-int multi = 1;
+int numero = 7;
 
-for (int i = 7; i <= 10; i++)
+Console.WriteLine($"Tabuada do {numero}:");
+for (int i = 1; i <= 10; i++)
 {
-    multi *= i;
-}
+    int resultado = numero * i;
+    Console.WriteLine($"{numero} x {i} = {resultado}");
 
-Console.WriteLine("Teste: " + multi);
+    Console.WriteLine("Teste: " + multi);
 
 Console.WriteLine("\n");
 
@@ -153,6 +155,7 @@ while (contador <= 50)
 }
 
 Console.WriteLine("\n");
+
 /*2. Faça um programa de sistema de login
 Um sistema de login precisa verificar a autenticidade do usuário, permitindo
 múltiplas tentativas até que as credenciais corretas sejam fornecidas.
@@ -160,12 +163,3 @@ Desenvolva um código que simule um sistema de login usando um loop while. O
 usuário tem um máximo de 3 tentativas para inserir a senha correta. Se a senha
 correta ("senha123") for inserida, exiba "Login bem-sucedido!". Se o limite de
 tentativas for atingido, mostre "Conta bloqueada por excesso de tentativas.". */
-
-int senha = 1;
-
-do
-{
-    Console.WriteLine(senha);
-    senha++;
-} while (senha <= 3);// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
