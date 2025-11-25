@@ -1,0 +1,4 @@
+===Cliente 3===
+Nome: MD
+Idade: 30
+Email: chamanacatraca@buss.com

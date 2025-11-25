@@ -80,3 +80,18 @@ foreach (int numero in numeros)
 {
     Console.WriteLine(numero);
 }
+
+Console.WriteLine("\n");
+
+// Solocitando ao usuario a digitação
+double preco, total = 0;
+
+do
+{
+    Console.Write("Digite o preço do produto (0 para finalizar):");
+    preco = Convert.ToDouble(Console.ReadLine());
+    total += preco;
+
+} while (preco != 0);
+
+Console.WriteLine($"\nTotal da Compra: R$ {total:F2}");
