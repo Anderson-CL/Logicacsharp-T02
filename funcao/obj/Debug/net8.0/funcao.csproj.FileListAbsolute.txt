@@ -1,0 +1,15 @@
+C:\Users\anderson.psantos32\source\repos\funcao\bin\Debug\net8.0\funcao.exe
+C:\Users\anderson.psantos32\source\repos\funcao\bin\Debug\net8.0\funcao.deps.json
+C:\Users\anderson.psantos32\source\repos\funcao\bin\Debug\net8.0\funcao.runtimeconfig.json
+C:\Users\anderson.psantos32\source\repos\funcao\bin\Debug\net8.0\funcao.dll
+C:\Users\anderson.psantos32\source\repos\funcao\bin\Debug\net8.0\funcao.pdb
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\funcao.AssemblyInfoInputs.cache
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\funcao.AssemblyInfo.cs
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\funcao.csproj.CoreCompileInputs.cache
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\funcao.sourcelink.json
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\funcao.dll
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\refint\funcao.dll
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\funcao.pdb
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\funcao.genruntimeconfig.cache
+C:\Users\anderson.psantos32\source\repos\funcao\obj\Debug\net8.0\ref\funcao.dll
